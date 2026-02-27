@@ -1,0 +1,7 @@
+# setlist-dl has no pip dependencies — it's pure Python 3.7+ stdlib.
+#
+# External tools required (install separately):
+#   yt-dlp  — https://github.com/yt-dlp/yt-dlp
+#   ffmpeg  — https://ffmpeg.org/download.html
+#
+# See README.md for platform-specific install instructions.
